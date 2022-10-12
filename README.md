@@ -1,7 +1,9 @@
-## 👋 Welcome to my Github profile
-I'm a software developer/info sec enthusiast currently learning ReactJS.
+## 👋 Hello I'm Jovan!
+Currently a Y1 CS student at NUS. My interests include web security, mobile and web development.
 
-I use Flutter to make cross platform mobile apps, and dabble with CTFs in my free time
+Learning React/NextJS at the moment!
+
+✨ Check me out at https://jovantanyk.dev
 
 
 
