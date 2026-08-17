@@ -1,5 +1,5 @@
 ## 👋 Hello I'm Jovan!
-Currently a Y3 CS student at NUS. My current interests include web security, mobile and web development.  
+My current interests include web security, mobile and web development.  
 Flutter is my favorite app framework <3
 
 ✨ Check me out at https://jovantanyk.dev  
