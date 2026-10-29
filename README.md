@@ -8,7 +8,7 @@ Flutter is my favorite app framework <3
 
 🎮 Game and Backend Developer at Tricky Tactics, an upcoming AutoChess mobile game! https://discord.gg/trickytactics
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jovantanyk&layout=compact&theme=dark)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=jovantanyk)](https://github.com/stats-organization/github-stats-extended)
 
 
 
